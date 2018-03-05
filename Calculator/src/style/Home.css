@@ -1,0 +1,30 @@
+.Calc {
+	margin: 0 auto;
+	text-align: center;
+	border-style: solid;
+	border-radius: 25px;
+	height: 450px;
+	width: 250px;
+	padding: 25px;
+	border-width: 2px;
+}
+
+.calcForm {
+	padding-top: 30px;
+}
+
+.button {
+	border-radius: 5px;
+	padding: 10px;
+	margin: 7px;
+}
+
+.Tarea{
+	border-radius: 15px;
+	width: 100%;
+	border-width: 2px;
+	border-color: black;
+	font-family: Tahoma;
+	font-size: large;	
+	text-align: left;
+}
